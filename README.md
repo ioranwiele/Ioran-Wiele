@@ -25,7 +25,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Contatos](https://github.com/ioranwiele/contacts/blob/main/contato.py)
 
 <!-- GIF -->
 <p align="left">
