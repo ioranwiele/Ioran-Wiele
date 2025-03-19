@@ -13,7 +13,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Sobre mim</summary>
+  <summary>👨‍💻 More with me</summary>
 
   - 💬 I am 19 years old and am currently studying Systems Development Analysis and taking courses outside of the company, such as Rocketseat. I have studied English. I have not yet had any experience in the field, but I am eager to help a company.
 
